@@ -1,0 +1,32 @@
+{
+  "name": "file-kind",
+  "version": "1.0.0",
+  "description": "Detect kind of file by it's mime type",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calibr/node-file-kind"
+  },
+  "keywords": [
+    "mime",
+    "type",
+    "kind",
+    "file",
+    "file",
+    "type",
+    "file",
+    "kind"
+  ],
+  "author": "calibr <awcalibr@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calibr/node-file-kind/issues"
+  },
+  "homepage": "https://github.com/calibr/node-file-kind",
+  "devDependencies": {
+    "should": "^6.0.3"
+  }
+}
