@@ -1,3 +1,7 @@
+##Installation
+
+`npm install file-kind`
+
 ##Usage
 
 ```js
