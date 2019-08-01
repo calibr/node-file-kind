@@ -68,6 +68,7 @@
   "application\/vnd.sun.xml.impress.template": "doc",
   "application\/vnd.oasis.opendocument.presentation-template": "doc",
   "application\/x-vnd.oasis.opendocument.presentation-template": "doc",
+  "application\/pdf": "doc",
   "image\/jpeg": "image",
   "image\/pjpeg": "image",
   "image\/gif": "image",

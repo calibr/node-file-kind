@@ -9,6 +9,7 @@ describe("File Kind", function() {
     fileKind("multipart/x-zip").should.equal("archive");
     fileKind("audio/mpeg").should.equal("audio");
     fileKind("application/smil").should.equal("video");
+    fileKind("application/pdf").should.equal("doc");
   });
 
   it("should get \"file\" kind for not registered mime types", function() {

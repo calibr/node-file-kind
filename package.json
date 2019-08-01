@@ -1,6 +1,6 @@
 {
   "name": "file-kind",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Detect kind of file by it's mime type",
   "main": "index.js",
   "scripts": {
