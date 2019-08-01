@@ -1,8 +1,8 @@
-##Installation
+## Installation
 
 `npm install file-kind`
 
-##Usage
+## Usage
 
 ```js
 var fileKind = require("file-kind");
